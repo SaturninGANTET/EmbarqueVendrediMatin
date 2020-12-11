@@ -1,0 +1,94 @@
+0x00000000 in ?? ()
+Loading section .text, size 0x11e60 lma 0x40000000
+Loading section .rodata, size 0x6b0 lma 0x40011e60
+Loading section .data, size 0xbb8 lma 0x40012510
+Start address 0x40000000, load size 78024
+Transfer rate: 76195 KB/sec, 11146 bytes/write.
+Hardware assisted breakpoint 1 at 0x400014cc: file ../src/TP3.c, line 117.
+Temporary breakpoint 2 at 0x400014e0: file ../src/TP3.c, line 128.
+[New Thread 2]
+
+Thread 1 hit Temporary breakpoint 2, main () at ../src/TP3.c:128
+128		break_simu();
+
+
+**** break = ****LEON2 Memory Controller
+    0x80000000  Memory config register 1                0x000002ff
+    0x80000004  Memory config register 2                0x7dc05220
+    0x80000008  Memory config register 3                0x00000000
+Generic APB UART 0
+    0x80000100  UART Data register                      0x00000000
+    0x80000104  UART Status register                    0x00000006
+    0x80000108  UART Control register                   0x00000003
+    0x8000010c  UART Scaler register                    0x00000000
+Multi-processor Interrupt Ctrl
+    0x80000200  Interrupt level register                0x00000000
+    0x80000204  Interrupt pending register              0x00000000
+    0x8000020c  Interrupt clear register                0x00000000
+    0x80000210  Interrupt status register               0x18000002
+    0x80000214  Interrupt broadcast register            0x00000000
+    0x80000240  Interrupt mask register  0              0x00000000
+    0x80000244  Interrupt mask register  1              0x00000000
+    0x80000280  Interrupt force register  0             0x00000000
+    0x80000284  Interrupt force register  1             0x00000000
+    0x800002c0  Interrupt extended ack. register  0     0x00000000
+    0x800002c4  Interrupt extended ack. register  1     0x00000000
+Modular Timer Unit0
+    0x80000300  Scalar value register                   0x00000006
+    0x80000304  Scalar reload value register            0x00000031
+    0x80000308  Configuration register                  0x00000142
+    0x80000310  Timer 0 Value register                  0xfffffebd
+    0x80000314  Timer 0 Reload value register           0xffffffff
+    0x80000318  Timer 0 Control register                0x00000003
+    0x80000320  Timer 1 Value register                  0x00000000
+    0x80000324  Timer 1 Reload value register           0x00000000
+    0x80000328  Timer 1 Control register                0x00000000
+Generic APB UART 1
+    0x80000900  UART Data register                      0x00000000
+    0x80000904  UART Status register                    0x00000006
+    0x80000908  UART Control register                   0x00000003
+    0x8000090c  UART Scaler register                    0x00000000
+
+
+**** break = ****LEON2 Memory Controller
+    0x80000000  Memory config register 1                0x000002ff
+    0x80000004  Memory config register 2                0x7dc05220
+    0x80000008  Memory config register 3                0x00000000
+Generic APB UART 0
+    0x80000100  UART Data register                      0x00000000
+    0x80000104  UART Status register                    0x00000006
+    0x80000108  UART Control register                   0x00000003
+    0x8000010c  UART Scaler register                    0x00000000
+Multi-processor Interrupt Ctrl
+    0x80000200  Interrupt level register                0x00000000
+    0x80000204  Interrupt pending register              0x00000000
+    0x8000020c  Interrupt clear register                0x00000000
+    0x80000210  Interrupt status register               0x18000002
+    0x80000214  Interrupt broadcast register            0x00000000
+    0x80000240  Interrupt mask register  0              0x00000000
+    0x80000244  Interrupt mask register  1              0x00000000
+    0x80000280  Interrupt force register  0             0x00000200
+    0x80000284  Interrupt force register  1             0x00000000
+    0x800002c0  Interrupt extended ack. register  0     0x00000000
+    0x800002c4  Interrupt extended ack. register  1     0x00000000
+Modular Timer Unit0
+    0x80000300  Scalar value register                   0x00000014
+    0x80000304  Scalar reload value register            0x00000031
+    0x80000308  Configuration register                  0x00000142
+    0x80000310  Timer 0 Value register                  0xfffffdc4
+    0x80000314  Timer 0 Reload value register           0xffffffff
+    0x80000318  Timer 0 Control register                0x00000003
+    0x80000320  Timer 1 Value register                  0x00000000
+    0x80000324  Timer 1 Reload value register           0x00000000
+    0x80000328  Timer 1 Control register                0x00000000
+Generic APB UART 1
+    0x80000900  UART Data register                      0x00000000
+    0x80000904  UART Status register                    0x00000006
+    0x80000908  UART Control register                   0x00000003
+    0x8000090c  UART Scaler register                    0x00000000
+
+Thread 1 received signal SIGTERM, Terminated.
+__text_start () at /opt/bcc-2.2.0-gcc/src/libbcc/shared/trap/trap_table_mvt.S:168
+168		SOFT_TRAP;                                    !  0 System calls
+tests/gdb_batch_001.txt:23: Error in sourced command file:
+Remote connection closed

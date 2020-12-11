@@ -1,0 +1,1821 @@
+0x00000000 in ?? ()
+Loading section .text, size 0x2dde0 lma 0x40000000
+Loading section .rtemsroset, size 0xb0 lma 0x4002dde0
+Loading section .data, size 0x1970 lma 0x4002fec0
+Start address 0x40000000, load size 194560
+Transfer rate: 47500 KB/sec, 13897 bytes/write.
+Hardware assisted breakpoint 1 at 0x40001990: file ../src/TP4.c, line 321.
+Hardware assisted breakpoint 2 at 0x40001ebc: file ../src/TP4.c, line 390.
+Function "main" not defined.
+Make breakpoint pending on future shared library load? (y or [n]) [answered N; input not from terminal]
+[New Thread 2]
+
+
+**** break = task_1 ****
+NB_tick = 20374
+
+**** break = task_1 ****
+NB_tick = 24041
+
+**** break = task_1 ****
+NB_tick = 13380
+
+**** break = task_1 ****
+NB_tick = 47779
+
+**** break = task_1 ****
+NB_tick = 589
+
+**** break = task_1 ****
+NB_tick = 18171
+
+**** break = task_1 ****
+NB_tick = 16623
+
+**** break = task_1 ****
+NB_tick = 11287
+
+**** break = task_1 ****
+NB_tick = 10212
+
+**** break = task_1 ****
+NB_tick = 3676
+
+**** break = task_1 ****
+NB_tick = 6938
+
+**** break = task_1 ****
+NB_tick = 24369
+
+**** break = task_1 ****
+NB_tick = 57843
+
+**** break = task_1 ****
+NB_tick = 18698
+
+**** break = task_1 ****
+NB_tick = 11011
+
+**** break = task_1 ****
+NB_tick = 29579
+
+**** break = task_1 ****
+NB_tick = 3903
+
+**** break = task_1 ****
+NB_tick = 1706
+
+**** break = task_1 ****
+NB_tick = 19493
+
+**** break = task_1 ****
+NB_tick = 24515
+
+**** break = task_1 ****
+NB_tick = 24660
+
+**** break = task_1 ****
+NB_tick = 10070
+
+**** break = task_1 ****
+NB_tick = 13350
+
+**** break = task_1 ****
+NB_tick = 35270
+
+**** break = task_1 ****
+NB_tick = 10911
+
+**** break = task_1 ****
+NB_tick = 10230
+
+**** break = task_1 ****
+NB_tick = 16852
+
+**** break = task_1 ****
+NB_tick = 5535
+
+**** break = task_1 ****
+NB_tick = 7187
+
+**** break = task_1 ****
+NB_tick = 10512
+
+**** break = task_1 ****
+NB_tick = 15592
+
+**** break = task_1 ****
+NB_tick = 27596
+
+**** break = task_1 ****
+NB_tick = 11662
+
+**** break = task_1 ****
+NB_tick = 18823
+
+**** break = task_1 ****
+NB_tick = 4819
+
+**** break = task_1 ****
+NB_tick = 1053
+
+**** break = task_1 ****
+NB_tick = 9131
+
+**** break = task_1 ****
+NB_tick = 4237
+
+**** break = task_1 ****
+NB_tick = 14965
+
+**** break = task_1 ****
+NB_tick = 4096
+
+**** break = task_1 ****
+NB_tick = 8098
+
+**** break = task_1 ****
+NB_tick = 20106
+
+**** break = task_1 ****
+NB_tick = 1367
+
+**** break = task_1 ****
+NB_tick = 1418
+
+**** break = task_1 ****
+NB_tick = 9351
+
+**** break = task_1 ****
+NB_tick = 10806
+
+**** break = task_1 ****
+NB_tick = 55737
+
+**** break = task_1 ****
+NB_tick = 10847
+
+**** break = task_1 ****
+NB_tick = 13484
+
+**** break = task_1 ****
+NB_tick = 14383
+
+**** break = task_1 ****
+NB_tick = 15596
+
+**** break = task_1 ****
+NB_tick = 42507
+
+**** break = task_1 ****
+NB_tick = 29493
+
+**** break = task_1 ****
+NB_tick = 10389
+
+**** break = task_1 ****
+NB_tick = 10918
+
+**** break = task_1 ****
+NB_tick = 35247
+
+**** break = task_1 ****
+NB_tick = 17346
+
+**** break = task_1 ****
+NB_tick = 9092
+
+**** break = task_1 ****
+NB_tick = 7741
+
+**** break = task_1 ****
+NB_tick = 3220
+
+**** break = task_1 ****
+NB_tick = 7295
+
+**** break = task_1 ****
+NB_tick = 36423
+
+**** break = task_1 ****
+NB_tick = 9803
+
+**** break = task_1 ****
+NB_tick = 24262
+
+**** break = task_1 ****
+NB_tick = 6519
+
+**** break = task_1 ****
+NB_tick = 3766
+
+**** break = task_1 ****
+NB_tick = 42831
+
+**** break = task_1 ****
+NB_tick = 24702
+
+**** break = task_1 ****
+NB_tick = 26409
+
+**** break = task_1 ****
+NB_tick = 25923
+
+**** break = task_1 ****
+NB_tick = 12202
+
+**** break = task_1 ****
+NB_tick = 11954
+
+**** break = task_1 ****
+NB_tick = 2707
+
+**** break = task_1 ****
+NB_tick = 32535
+
+**** break = task_1 ****
+NB_tick = 14504
+
+**** break = task_1 ****
+NB_tick = 7654
+
+**** break = task_1 ****
+NB_tick = 8672
+
+**** break = task_1 ****
+NB_tick = 8202
+
+**** break = task_1 ****
+NB_tick = 3921
+
+**** break = task_1 ****
+NB_tick = 27733
+
+**** break = task_1 ****
+NB_tick = 7379
+
+**** break = task_1 ****
+NB_tick = 21074
+
+**** break = task_1 ****
+NB_tick = 21821
+
+**** break = task_1 ****
+NB_tick = 14823
+
+**** break = task_1 ****
+NB_tick = 16050
+
+**** break = task_1 ****
+NB_tick = 25484
+
+**** break = task_1 ****
+NB_tick = 42820
+
+**** break = task_1 ****
+NB_tick = 3436
+
+**** break = task_1 ****
+NB_tick = 39169
+
+**** break = task_1 ****
+NB_tick = 22022
+
+**** break = task_1 ****
+NB_tick = 38826
+
+**** break = task_1 ****
+NB_tick = 9445
+
+**** break = task_1 ****
+NB_tick = 28160
+
+**** break = task_1 ****
+NB_tick = 10980
+
+**** break = task_1 ****
+NB_tick = 4584
+
+**** break = task_1 ****
+NB_tick = 4931
+
+**** break = task_1 ****
+NB_tick = 57557
+
+**** break = task_1 ****
+NB_tick = 2192
+
+**** break = task_1 ****
+NB_tick = 30974
+
+**** break = task_1 ****
+NB_tick = 13036
+
+**** break = task_1 ****
+NB_tick = 11055
+
+**** break = task_1 ****
+NB_tick = 19806
+
+**** break = task_1 ****
+NB_tick = 13581
+
+**** break = task_1 ****
+NB_tick = 42969
+
+**** break = task_1 ****
+NB_tick = 528
+
+**** break = task_1 ****
+NB_tick = 20886
+
+**** break = task_1 ****
+NB_tick = 16618
+
+**** break = task_1 ****
+NB_tick = 13049
+
+**** break = task_1 ****
+NB_tick = 6830
+
+**** break = task_1 ****
+NB_tick = 2865
+
+**** break = task_1 ****
+NB_tick = 7706
+
+**** break = task_1 ****
+NB_tick = 27289
+
+**** break = task_1 ****
+NB_tick = 77126
+
+**** break = task_1 ****
+NB_tick = 10031
+
+**** break = task_1 ****
+NB_tick = 16090
+
+**** break = task_1 ****
+NB_tick = 40768
+
+**** break = task_1 ****
+NB_tick = 3418
+
+**** break = task_1 ****
+NB_tick = 2520
+
+**** break = task_1 ****
+NB_tick = 27946
+
+**** break = task_1 ****
+NB_tick = 28943
+
+**** break = task_1 ****
+NB_tick = 23031
+
+**** break = task_1 ****
+NB_tick = 5760
+
+**** break = task_1 ****
+NB_tick = 15494
+
+**** break = task_1 ****
+NB_tick = 41194
+
+**** break = task_1 ****
+NB_tick = 9125
+
+**** break = task_1 ****
+NB_tick = 6664
+
+**** break = task_1 ****
+NB_tick = 8739
+
+**** break = task_1 ****
+NB_tick = 3044
+
+**** break = task_1 ****
+NB_tick = 7265
+
+**** break = task_1 ****
+NB_tick = 5662
+
+**** break = task_1 ****
+NB_tick = 16886
+
+**** break = task_1 ****
+NB_tick = 23569
+
+**** break = task_1 ****
+NB_tick = 16510
+
+**** break = task_1 ****
+NB_tick = 24538
+
+**** break = task_1 ****
+NB_tick = 4377
+
+**** break = task_1 ****
+NB_tick = 1467
+
+**** break = task_1 ****
+NB_tick = 11791
+
+**** break = task_1 ****
+NB_tick = 5952
+
+**** break = task_1 ****
+NB_tick = 10497
+
+**** break = task_1 ****
+NB_tick = 4646
+
+**** break = task_1 ****
+NB_tick = 8353
+
+**** break = task_1 ****
+NB_tick = 25647
+
+**** break = task_1 ****
+NB_tick = 1723
+
+**** break = task_1 ****
+NB_tick = 1600
+
+**** break = task_1 ****
+NB_tick = 12490
+
+**** break = task_1 ****
+NB_tick = 6652
+
+**** break = task_1 ****
+NB_tick = 54794
+
+**** break = task_1 ****
+NB_tick = 13534
+
+**** break = task_1 ****
+NB_tick = 11846
+
+**** break = task_1 ****
+NB_tick = 10899
+
+**** break = task_1 ****
+NB_tick = 14853
+
+**** break = task_1 ****
+NB_tick = 41219
+
+**** break = task_1 ****
+NB_tick = 28882
+
+**** break = task_1 ****
+NB_tick = 10221
+
+**** break = task_1 ****
+NB_tick = 7782
+
+**** break = task_1 ****
+NB_tick = 45956
+
+**** break = task_1 ****
+NB_tick = 14364
+
+**** break = task_1 ****
+NB_tick = 9767
+
+**** break = task_1 ****
+NB_tick = 4733
+
+**** break = task_1 ****
+NB_tick = 3699
+
+**** break = task_1 ****
+NB_tick = 5246
+
+**** break = task_1 ****
+NB_tick = 43397
+
+**** break = task_1 ****
+NB_tick = 10678
+
+**** break = task_1 ****
+NB_tick = 17713
+
+**** break = task_1 ****
+NB_tick = 5341
+
+**** break = task_1 ****
+NB_tick = 5120
+
+**** break = task_1 ****
+NB_tick = 22734
+
+**** break = task_1 ****
+NB_tick = 17888
+
+**** break = task_1 ****
+NB_tick = 25727
+
+**** break = task_1 ****
+NB_tick = 29063
+
+**** break = task_1 ****
+NB_tick = 9082
+
+**** break = task_1 ****
+NB_tick = 12196
+
+**** break = task_1 ****
+NB_tick = 3546
+
+**** break = task_1 ****
+NB_tick = 25441
+
+**** break = task_1 ****
+NB_tick = 17072
+
+**** break = task_1 ****
+NB_tick = 9671
+
+**** break = task_1 ****
+NB_tick = 8777
+
+**** break = task_1 ****
+NB_tick = 6498
+
+**** break = task_1 ****
+NB_tick = 5398
+
+**** break = task_1 ****
+NB_tick = 38666
+
+**** break = task_1 ****
+NB_tick = 4589
+
+**** break = task_1 ****
+NB_tick = 12584
+
+**** break = task_1 ****
+NB_tick = 25470
+
+**** break = task_1 ****
+NB_tick = 13487
+
+**** break = task_1 ****
+NB_tick = 22060
+
+**** break = task_1 ****
+NB_tick = 35289
+
+**** break = task_1 ****
+NB_tick = 43315
+
+**** break = task_1 ****
+NB_tick = 1778
+
+**** break = task_1 ****
+NB_tick = 29885
+
+**** break = task_1 ****
+NB_tick = 25208
+
+**** break = task_1 ****
+NB_tick = 32259
+
+**** break = task_1 ****
+NB_tick = 5951
+
+**** break = task_1 ****
+NB_tick = 25365
+
+**** break = task_1 ****
+NB_tick = 15130
+
+**** break = task_1 ****
+NB_tick = 4426
+
+**** break = task_1 ****
+NB_tick = 3150
+
+**** break = task_1 ****
+NB_tick = 86082
+
+**** break = task_1 ****
+NB_tick = 2886
+
+**** break = task_1 ****
+NB_tick = 28243
+
+**** break = task_1 ****
+NB_tick = 19436
+
+**** break = task_1 ****
+NB_tick = 11999
+
+**** break = task_1 ****
+NB_tick = 16159
+
+**** break = task_1 ****
+NB_tick = 13889
+
+**** break = task_1 ****
+NB_tick = 34801
+
+**** break = task_1 ****
+NB_tick = 507
+
+**** break = task_1 ****
+NB_tick = 25246
+
+**** break = task_1 ****
+NB_tick = 10915
+
+**** break = task_1 ****
+NB_tick = 17230
+
+**** break = task_1 ****
+NB_tick = 7169
+
+**** break = task_1 ****
+NB_tick = 3113
+
+**** break = task_1 ****
+NB_tick = 7303
+
+**** break = task_1 ****
+NB_tick = 20236
+
+**** break = task_1 ****
+NB_tick = 45608
+
+**** break = task_1 ****
+NB_tick = 15005
+
+**** break = task_1 ****
+NB_tick = 14509
+
+**** break = task_1 ****
+NB_tick = 27105
+
+**** break = task_1 ****
+NB_tick = 4171
+
+**** break = task_1 ****
+NB_tick = 2981
+
+**** break = task_1 ****
+NB_tick = 25898
+
+**** break = task_1 ****
+NB_tick = 32290
+
+**** break = task_1 ****
+NB_tick = 13284
+
+**** break = task_1 ****
+NB_tick = 6255
+
+**** break = task_1 ****
+NB_tick = 11201
+
+**** break = task_1 ****
+NB_tick = 25476
+
+**** break = task_1 ****
+NB_tick = 11854
+
+**** break = task_1 ****
+NB_tick = 8595
+
+**** break = task_1 ****
+NB_tick = 12537
+
+**** break = task_1 ****
+NB_tick = 3425
+
+**** break = task_1 ****
+NB_tick = 9060
+
+**** break = task_1 ****
+NB_tick = 6476
+
+**** break = task_1 ****
+NB_tick = 13043
+
+**** break = task_1 ****
+NB_tick = 28659
+
+**** break = task_1 ****
+NB_tick = 19569
+
+**** break = task_1 ****
+NB_tick = 14329
+
+**** break = task_1 ****
+NB_tick = 4112
+
+**** break = task_1 ****
+NB_tick = 1000
+
+**** break = task_1 ****
+NB_tick = 16111
+
+**** break = task_1 ****
+NB_tick = 8230
+
+**** break = task_1 ****
+NB_tick = 13224
+
+**** break = task_1 ****
+NB_tick = 4384
+
+**** break = task_1 ****
+NB_tick = 7414
+
+**** break = task_1 ****
+NB_tick = 37937
+
+**** break = task_1 ****
+NB_tick = 2555
+
+**** break = task_1 ****
+NB_tick = 1798
+
+**** break = task_1 ****
+NB_tick = 15485
+
+**** break = task_1 ****
+NB_tick = 7834
+
+**** break = task_1 ****
+NB_tick = 35268
+
+**** break = task_1 ****
+NB_tick = 7008
+
+**** break = task_1 ****
+NB_tick = 11102
+
+**** break = task_1 ****
+NB_tick = 10771
+
+**** break = task_1 ****
+NB_tick = 20778
+
+**** break = task_1 ****
+NB_tick = 61670
+
+**** break = task_1 ****
+NB_tick = 20466
+
+**** break = task_1 ****
+NB_tick = 5672
+
+**** break = task_1 ****
+NB_tick = 9990
+
+**** break = task_1 ****
+NB_tick = 37303
+
+**** break = task_1 ****
+NB_tick = 10941
+
+**** break = task_1 ****
+NB_tick = 14111
+
+**** break = task_1 ****
+NB_tick = 6817
+
+**** break = task_1 ****
+NB_tick = 4372
+
+**** break = task_1 ****
+NB_tick = 5794
+
+**** break = task_1 ****
+NB_tick = 44830
+
+**** break = task_1 ****
+NB_tick = 9576
+
+**** break = task_1 ****
+NB_tick = 20656
+
+**** break = task_1 ****
+NB_tick = 5443
+
+**** break = task_1 ****
+NB_tick = 5931
+
+**** break = task_1 ****
+NB_tick = 21393
+
+**** break = task_1 ****
+NB_tick = 16317
+
+**** break = task_1 ****
+NB_tick = 34929
+
+**** break = task_1 ****
+NB_tick = 21808
+
+**** break = task_1 ****
+NB_tick = 9026
+
+**** break = task_1 ****
+NB_tick = 8552
+
+**** break = task_1 ****
+NB_tick = 4886
+
+**** break = task_1 ****
+NB_tick = 36880
+
+**** break = task_1 ****
+NB_tick = 23693
+
+**** break = task_1 ****
+NB_tick = 10025
+
+**** break = task_1 ****
+NB_tick = 12443
+
+**** break = task_1 ****
+NB_tick = 5523
+
+**** break = task_1 ****
+NB_tick = 3109
+
+**** break = task_1 ****
+NB_tick = 20253
+
+**** break = task_1 ****
+NB_tick = 2352
+
+**** break = task_1 ****
+NB_tick = 15867
+
+**** break = task_1 ****
+NB_tick = 14082
+
+**** break = task_1 ****
+NB_tick = 18561
+
+**** break = task_1 ****
+NB_tick = 22413
+
+**** break = task_1 ****
+NB_tick = 25557
+
+**** break = task_1 ****
+NB_tick = 64609
+
+**** break = task_1 ****
+NB_tick = 2029
+
+**** break = task_1 ****
+NB_tick = 25568
+
+**** break = task_1 ****
+NB_tick = 15145
+
+**** break = task_1 ****
+NB_tick = 45381
+
+**** break = task_1 ****
+NB_tick = 7937
+
+**** break = task_1 ****
+NB_tick = 19998
+
+**** break = task_1 ****
+NB_tick = 13214
+
+**** break = task_1 ****
+NB_tick = 4771
+
+**** break = task_1 ****
+NB_tick = 3535
+
+**** break = task_1 ****
+NB_tick = 75221
+
+**** break = task_1 ****
+NB_tick = 3882
+
+**** break = task_1 ****
+NB_tick = 41353
+
+**** break = task_1 ****
+NB_tick = 18851
+
+**** break = task_1 ****
+NB_tick = 12987
+
+**** break = task_1 ****
+NB_tick = 9612
+
+**** break = task_1 ****
+NB_tick = 8142
+
+**** break = task_1 ****
+NB_tick = 35361
+
+**** break = task_1 ****
+NB_tick = 369
+
+**** break = task_1 ****
+NB_tick = 33887
+
+**** break = task_1 ****
+NB_tick = 9804
+
+**** break = task_1 ****
+NB_tick = 16421
+
+**** break = task_1 ****
+NB_tick = 10610
+
+**** break = task_1 ****
+NB_tick = 2065
+
+**** break = task_1 ****
+NB_tick = 6852
+
+**** break = task_1 ****
+NB_tick = 22261
+
+**** break = task_1 ****
+NB_tick = 24711
+
+**** break = task_1 ****
+NB_tick = 10525
+
+**** break = task_1 ****
+NB_tick = 7995
+
+**** break = task_1 ****
+NB_tick = 28909
+
+**** break = task_1 ****
+NB_tick = 3783
+
+**** break = task_1 ****
+NB_tick = 3120
+
+**** break = task_1 ****
+NB_tick = 20538
+
+**** break = task_1 ****
+NB_tick = 38434
+
+**** break = task_1 ****
+NB_tick = 9754
+
+**** break = task_1 ****
+NB_tick = 5811
+
+**** break = task_1 ****
+NB_tick = 8543
+
+**** break = task_1 ****
+NB_tick = 21402
+
+**** break = task_1 ****
+NB_tick = 17375
+
+**** break = task_1 ****
+NB_tick = 11085
+
+**** break = task_1 ****
+NB_tick = 13353
+
+**** break = task_1 ****
+NB_tick = 3074
+
+**** break = task_1 ****
+NB_tick = 10153
+
+**** break = task_1 ****
+NB_tick = 5626
+
+**** break = task_1 ****
+NB_tick = 9961
+
+**** break = task_1 ****
+NB_tick = 22316
+
+**** break = task_1 ****
+NB_tick = 29117
+
+**** break = task_1 ****
+NB_tick = 7567
+
+**** break = task_1 ****
+NB_tick = 4756
+
+**** break = task_1 ****
+NB_tick = 1314
+
+**** break = task_1 ****
+NB_tick = 14625
+
+**** break = task_1 ****
+NB_tick = 6849
+
+**** break = task_1 ****
+NB_tick = 19649
+
+**** break = task_1 ****
+NB_tick = 4656
+
+**** break = task_1 ****
+NB_tick = 4668
+
+**** break = task_1 ****
+NB_tick = 51667
+
+**** break = task_1 ****
+NB_tick = 2097
+
+**** break = task_1 ****
+NB_tick = 2645
+
+**** break = task_1 ****
+NB_tick = 9752
+
+**** break = task_1 ****
+NB_tick = 5807
+
+**** break = task_1 ****
+NB_tick = 22188
+
+**** break = task_1 ****
+NB_tick = 5321
+
+**** break = task_1 ****
+NB_tick = 12154
+
+**** break = task_1 ****
+NB_tick = 5684
+
+**** break = task_1 ****
+NB_tick = 28318
+
+**** break = task_1 ****
+NB_tick = 81677
+
+**** break = task_1 ****
+NB_tick = 10583
+
+**** break = task_1 ****
+NB_tick = 7123
+
+**** break = task_1 ****
+NB_tick = 6696
+
+**** break = task_1 ****
+NB_tick = 31063
+
+**** break = task_1 ****
+NB_tick = 12054
+
+**** break = task_1 ****
+NB_tick = 14083
+
+**** break = task_1 ****
+NB_tick = 6677
+
+**** break = task_1 ****
+NB_tick = 2533
+
+**** break = task_1 ****
+NB_tick = 3913
+
+**** break = task_1 ****
+NB_tick = 33535
+
+**** break = task_1 ****
+NB_tick = 6946
+
+**** break = task_1 ****
+NB_tick = 21258
+
+**** break = task_1 ****
+NB_tick = 6296
+
+**** break = task_1 ****
+NB_tick = 3444
+
+**** break = task_1 ****
+NB_tick = 17497
+
+**** break = task_1 ****
+NB_tick = 14216
+
+**** break = task_1 ****
+NB_tick = 36371
+
+**** break = task_1 ****
+NB_tick = 28023
+
+**** break = task_1 ****
+NB_tick = 8100
+
+**** break = task_1 ****
+NB_tick = 9596
+
+**** break = task_1 ****
+NB_tick = 3573
+
+**** break = task_1 ****
+NB_tick = 40708
+
+**** break = task_1 ****
+NB_tick = 21622
+
+**** break = task_1 ****
+NB_tick = 14333
+
+**** break = task_1 ****
+NB_tick = 15502
+
+**** break = task_1 ****
+NB_tick = 8071
+
+**** break = task_1 ****
+NB_tick = 2375
+
+**** break = task_1 ****
+NB_tick = 11339
+
+**** break = task_1 ****
+NB_tick = 2935
+
+**** break = task_1 ****
+NB_tick = 12131
+
+**** break = task_1 ****
+NB_tick = 15043
+
+**** break = task_1 ****
+NB_tick = 17873
+
+**** break = task_1 ****
+NB_tick = 25532
+
+**** break = task_1 ****
+NB_tick = 15151
+
+**** break = task_1 ****
+NB_tick = 37823
+
+**** break = task_1 ****
+NB_tick = 1810
+
+**** break = task_1 ****
+NB_tick = 19495
+
+**** break = task_1 ****
+NB_tick = 17051
+
+**** break = task_1 ****
+NB_tick = 66070
+
+**** break = task_1 ****
+NB_tick = 10932
+
+**** break = task_1 ****
+NB_tick = 20249
+
+**** break = task_1 ****
+NB_tick = 15588
+
+**** break = task_1 ****
+NB_tick = 5472
+
+**** break = task_1 ****
+NB_tick = 3744
+
+**** break = task_1 ****
+NB_tick = 111282
+
+**** break = task_1 ****
+NB_tick = 2026
+
+**** break = task_1 ****
+NB_tick = 50209
+
+**** break = task_1 ****
+NB_tick = 12861
+
+**** break = task_1 ****
+NB_tick = 17838
+
+**** break = task_1 ****
+NB_tick = 10434
+
+**** break = task_1 ****
+NB_tick = 10893
+
+**** break = task_1 ****
+NB_tick = 24419
+
+**** break = task_1 ****
+NB_tick = 463
+
+**** break = task_1 ****
+NB_tick = 40444
+
+**** break = task_1 ****
+NB_tick = 8587
+
+**** break = task_1 ****
+NB_tick = 11021
+
+**** break = task_1 ****
+NB_tick = 14777
+
+**** break = task_1 ****
+NB_tick = 2030
+
+**** break = task_1 ****
+NB_tick = 8074
+
+**** break = task_1 ****
+NB_tick = 11336
+
+**** break = task_1 ****
+NB_tick = 35080
+
+**** break = task_1 ****
+NB_tick = 12556
+
+**** break = task_1 ****
+NB_tick = 7244
+
+**** break = task_1 ****
+NB_tick = 33596
+
+**** break = task_1 ****
+NB_tick = 4151
+
+**** break = task_1 ****
+NB_tick = 4144
+
+**** break = task_1 ****
+NB_tick = 14891
+
+**** break = task_1 ****
+NB_tick = 39294
+
+**** break = task_1 ****
+NB_tick = 10019
+
+**** break = task_1 ****
+NB_tick = 4407
+
+**** break = task_1 ****
+NB_tick = 11077
+
+**** break = task_1 ****
+NB_tick = 13845
+
+**** break = task_1 ****
+NB_tick = 17588
+
+**** break = task_1 ****
+NB_tick = 16349
+
+**** break = task_1 ****
+NB_tick = 14704
+
+**** break = task_1 ****
+NB_tick = 3720
+
+**** break = task_1 ****
+NB_tick = 11606
+
+**** break = task_1 ****
+NB_tick = 6211
+
+**** break = task_1 ****
+NB_tick = 12177
+
+**** break = task_1 ****
+NB_tick = 28970
+
+**** break = task_1 ****
+NB_tick = 36479
+
+**** break = task_1 ****
+NB_tick = 7895
+
+**** break = task_1 ****
+NB_tick = 5330
+
+**** break = task_1 ****
+NB_tick = 1740
+
+**** break = task_1 ****
+NB_tick = 17533
+
+**** break = task_1 ****
+NB_tick = 6512
+
+**** break = task_1 ****
+NB_tick = 18562
+
+**** break = task_1 ****
+NB_tick = 2333
+
+**** break = task_1 ****
+NB_tick = 6888
+
+**** break = task_1 ****
+NB_tick = 43445
+
+**** break = task_1 ****
+NB_tick = 2921
+
+**** break = task_1 ****
+NB_tick = 2915
+
+**** break = task_1 ****
+NB_tick = 4988
+
+**** break = task_1 ****
+NB_tick = 5378
+
+**** break = task_1 ****
+NB_tick = 28646
+
+**** break = task_1 ****
+NB_tick = 6153
+
+**** break = task_1 ****
+NB_tick = 8788
+
+**** break = task_1 ****
+NB_tick = 7685
+
+**** break = task_1 ****
+NB_tick = 20066
+
+**** break = task_1 ****
+NB_tick = 96516
+
+**** break = task_1 ****
+NB_tick = 12884
+
+**** break = task_1 ****
+NB_tick = 9611
+
+**** break = task_1 ****
+NB_tick = 4816
+
+**** break = task_1 ****
+NB_tick = 32966
+
+**** break = task_1 ****
+NB_tick = 15843
+
+**** break = task_1 ****
+NB_tick = 13531
+
+**** break = task_1 ****
+NB_tick = 5852
+
+**** break = task_1 ****
+NB_tick = 1784
+
+**** break = task_1 ****
+NB_tick = 2539
+
+**** break = task_1 ****
+NB_tick = 24552
+
+**** break = task_1 ****
+NB_tick = 7128
+
+**** break = task_1 ****
+NB_tick = 19591
+
+**** break = task_1 ****
+NB_tick = 7190
+
+**** break = task_1 ****
+NB_tick = 2608
+
+**** break = task_1 ****
+NB_tick = 11968
+
+**** break = task_1 ****
+NB_tick = 20096
+
+**** break = task_1 ****
+NB_tick = 26908
+
+**** break = task_1 ****
+NB_tick = 33619
+
+**** break = task_1 ****
+NB_tick = 8068
+
+**** break = task_1 ****
+NB_tick = 9737
+
+**** break = task_1 ****
+NB_tick = 1866
+
+**** break = task_1 ****
+NB_tick = 43510
+
+**** break = task_1 ****
+NB_tick = 17160
+
+**** break = task_1 ****
+NB_tick = 11822
+
+**** break = task_1 ****
+NB_tick = 17604
+
+**** break = task_1 ****
+NB_tick = 10060
+
+**** break = task_1 ****
+NB_tick = 2175
+
+**** break = task_1 ****
+NB_tick = 8389
+
+**** break = task_1 ****
+NB_tick = 1676
+
+**** break = task_1 ****
+NB_tick = 12697
+
+**** break = task_1 ****
+NB_tick = 8762
+
+**** break = task_1 ****
+NB_tick = 26566
+
+**** break = task_1 ****
+NB_tick = 37267
+
+**** break = task_1 ****
+NB_tick = 11446
+
+**** break = task_1 ****
+NB_tick = 49658
+
+**** break = task_1 ****
+NB_tick = 1966
+
+**** break = task_1 ****
+NB_tick = 19556
+
+**** break = task_1 ****
+NB_tick = 14197
+
+**** break = task_1 ****
+NB_tick = 40943
+
+**** break = task_1 ****
+NB_tick = 10755
+
+**** break = task_1 ****
+NB_tick = 21581
+
+**** break = task_1 ****
+NB_tick = 9774
+
+**** break = task_1 ****
+NB_tick = 8138
+
+**** break = task_1 ****
+NB_tick = 4371
+
+**** break = task_1 ****
+NB_tick = 112593
+
+**** break = task_1 ****
+NB_tick = 2741
+
+**** break = task_1 ****
+NB_tick = 59389
+
+**** break = task_1 ****
+NB_tick = 14747
+Thread 1 received signal SIGINT, Interrupt.
+0x400026c0 in pop (fifo=0x4003af14 <buffer_circu>, destination=0x40045918 "", taille_max=48) at ../src/buffer_circulaire.c:59
+59		if (fifo != 0 && fifo->buffer != 0) {
+
+
+**** break = task_1 ****
+NB_tick = 19369
+
+**** break = task_1 ****
+NB_tick = 8925
+
+**** break = task_1 ****
+NB_tick = 8284
+
+**** break = task_1 ****
+NB_tick = 21682
+
+**** break = task_1 ****
+NB_tick = 667
+
+**** break = task_1 ****
+NB_tick = 27827
+
+**** break = task_1 ****
+NB_tick = 5881
+
+**** break = task_1 ****
+NB_tick = 11024
+
+**** break = task_1 ****
+NB_tick = 16383
+
+**** break = task_1 ****
+NB_tick = 2547
+
+**** break = task_1 ****
+NB_tick = 8120
+
+**** break = task_1 ****
+NB_tick = 15299
+
+**** break = task_1 ****
+NB_tick = 42968
+
+**** break = task_1 ****
+NB_tick = 18592
+
+**** break = task_1 ****
+NB_tick = 8209
+
+**** break = task_1 ****
+NB_tick = 30042
+
+**** break = task_1 ****
+NB_tick = 2670
+
+**** break = task_1 ****
+NB_tick = 2191
+
+**** break = task_1 ****
+NB_tick = 9009
+
+**** break = task_1 ****
+NB_tick = 32398
+
+**** break = task_1 ****
+NB_tick = 13445
+
+**** break = task_1 ****
+NB_tick = 3495
+
+**** break = task_1 ****
+NB_tick = 13182
+
+**** break = task_1 ****
+NB_tick = 14852
+
+**** break = task_1 ****
+NB_tick = 25779
+
+**** break = task_1 ****
+NB_tick = 13967
+
+**** break = task_1 ****
+NB_tick = 17960
+
+**** break = task_1 ****
+NB_tick = 2788
+
+**** break = task_1 ****
+NB_tick = 6365
+
+**** break = task_1 ****
+NB_tick = 7978
+
+**** break = task_1 ****
+NB_tick = 11455
+
+**** break = task_1 ****
+NB_tick = 19430
+
+**** break = task_1 ****
+NB_tick = 50187
+
+**** break = task_1 ****
+NB_tick = 6575
+
+**** break = task_1 ****
+NB_tick = 5327
+
+**** break = task_1 ****
+NB_tick = 1247
+
+**** break = task_1 ****
+NB_tick = 21743
+
+**** break = task_1 ****
+NB_tick = 6598
+
+**** break = task_1 ****
+NB_tick = 10383
+
+**** break = task_1 ****
+NB_tick = 1711
+
+**** break = task_1 ****
+NB_tick = 9823
+
+**** break = task_1 ****
+NB_tick = 59072
+
+**** break = task_1 ****
+NB_tick = 1876
+
+**** break = task_1 ****
+NB_tick = 4228
+
+**** break = task_1 ****
+NB_tick = 6376
+
+**** break = task_1 ****
+NB_tick = 6932
+
+**** break = task_1 ****
+NB_tick = 23909
+
+**** break = task_1 ****
+NB_tick = 3902
+
+**** break = task_1 ****
+NB_tick = 10076
+
+**** break = task_1 ****
+NB_tick = 5545
+
+**** break = task_1 ****
+NB_tick = 13611
+
+**** break = task_1 ****
+NB_tick = 94182
+
+**** break = task_1 ****
+NB_tick = 11863
+
+**** break = task_1 ****
+NB_tick = 8684
+
+**** break = task_1 ****
+NB_tick = 4140
+
+**** break = task_1 ****
+NB_tick = 31048
+
+**** break = task_1 ****
+NB_tick = 23400
+
+**** break = task_1 ****
+NB_tick = 8858
+
+**** break = task_1 ****
+NB_tick = 5898
+
+**** break = task_1 ****
+NB_tick = 1711
+
+**** break = task_1 ****
+NB_tick = 3680
+
+**** break = task_1 ****
+NB_tick = 22861
+
+**** break = task_1 ****
+NB_tick = 6132
+
+**** break = task_1 ****
+NB_tick = 16615
+
+**** break = task_1 ****
+NB_tick = 4996
+
+**** break = task_1 ****
+NB_tick = 2618
+
+**** break = task_1 ****
+NB_tick = 16623
+
+**** break = task_1 ****
+NB_tick = 27833
+
+**** break = task_1 ****
+NB_tick = 33095
+
+**** break = task_1 ****
+NB_tick = 21958
+
+**** break = task_1 ****
+NB_tick = 6587
+
+**** break = task_1 ****
+NB_tick = 10012
+
+**** break = task_1 ****
+NB_tick = 1730
+
+**** break = task_1 ****
+NB_tick = 53752
+
+**** break = task_1 ****
+NB_tick = 24476
+
+**** break = task_1 ****
+NB_tick = 15308
+
+**** break = task_1 ****
+NB_tick = 25628
+
+**** break = task_1 ****
+NB_tick = 6403
+
+**** break = task_1 ****
+NB_tick = 2112
+
+**** break = task_1 ****
+NB_tick = 7106
+
+**** break = task_1 ****
+NB_tick = 1253
+
+**** break = task_1 ****
+NB_tick = 10607
+
+**** break = task_1 ****
+NB_tick = 4955
+
+**** break = task_1 ****
+NB_tick = 28225
+
+**** break = task_1 ****
+NB_tick = 36569
+
+**** break = task_1 ****
+NB_tick = 16229
+
+**** break = task_1 ****
+NB_tick = 68546
+
+**** break = task_1 ****
+NB_tick = 1890
+
+**** break = task_1 ****
+NB_tick = 22147
+
+**** break = task_1 ****
+NB_tick = 18779
+
+**** break = task_1 ****
+NB_tick = 46309
+
+**** break = task_1 ****
+NB_tick = 12511
+
+**** break = task_1 ****
+NB_tick = 14124
+
+**** break = task_1 ****
+NB_tick = 14427
+
+**** break = task_1 ****
+NB_tick = 11894
+
+**** break = task_1 ****
+NB_tick = 4706
+
+**** break = task_1 ****
+NB_tick = 132617
+
+**** break = task_1 ****
+NB_tick = 3214
+
+**** break = task_1 ****
+NB_tick = 30283
+
+**** break = task_1 ****
+NB_tick = 18305
+Thread 1 received signal SIGINT, Interrupt.
+0x4000268c in pop (fifo=0x4003af14 <buffer_circu>, destination=0x40045918 "", taille_max=48) at ../src/buffer_circulaire.c:57
+57	int pop(buffer_circulaire* fifo, uint8_t* destination, uint16_t taille_max) {
+tests/gdb_batch_001.txt:40: Error in sourced command file:
+Remote connection closed

@@ -1,0 +1,32 @@
+set remotetimeout 10000
+set logging file gdb_result_002.txt
+set logging overwrite on
+set logging on
+set height 0
+set print pretty on
+set print array on
+tar extended-remote localhost:1234
+load
+
+hbreak test
+commands
+	silent
+	printf "\n **** test()  ****\n"
+	print tableau
+	print tableau2
+	cont
+end
+
+hbreak rayon2perim
+commands
+	silent
+	printf "\n **** rayon2perim  ****\n"
+	cont
+end
+
+
+mon perf reset
+start
+mon perf
+cont
+detach

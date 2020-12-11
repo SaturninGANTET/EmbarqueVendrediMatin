@@ -1,0 +1,29 @@
+set remotetimeout 10000
+set logging file gdb_result_001.txt
+set logging overwrite on
+set logging on
+set height 0
+set print pretty on
+set print array on
+tar extended-remote localhost:1234
+load
+mon perf reset
+
+hbreak break_simu
+commands
+	silent
+	printf "\n\n**** break = %s ****  time = \n", break_name
+	if (break_id == 0)
+		mon perf reset
+	end
+	if (break_id == 1)
+		mon perf
+		mon perf reset
+	end
+	cont
+end
+
+
+start
+cont
+detach

@@ -1,0 +1,40 @@
+set remotetimeout 10000
+set logging file gdb_result_001.txt
+set logging overwrite on
+set logging on
+set height 0
+set print pretty on
+set print array on
+tar extended-remote localhost:1234
+load
+mon perf reset
+
+hbreak break_simu
+commands
+	silent
+	printf "\n\n**** break = %s ****\nNB_tick = %d", break_name, nb_tick
+	cont
+end
+
+
+hbreak send_flux
+commands
+silent
+printf "%d \t %d \t %d ", time, f.id_first_acquisition, f.id_window
+printf "\t %f ", f.measures[0]
+printf "\t %f ", f.measures[1]
+printf "\t %f ", f.measures[2]
+printf "\t %f ", f.measures[3]
+printf "\t %f ", f.measures[4]
+printf "\t %f ", f.measures[5]
+printf "\t %f ", f.measures[6]
+printf "\t %f ", f.measures[7]
+printf "\t %f ", f.measures[8]
+printf "\t %f\n", f.measures[9]
+cont
+end
+
+
+start
+cont
+detach

@@ -1,0 +1,72 @@
+0x00000000 in ?? ()
+Loading section .text, size 0x4130 lma 0x40000000
+Loading section .rodata, size 0x180 lma 0x40004130
+Loading section .data, size 0x1b0 lma 0x400042b0
+Start address 0x40000000, load size 17504
+Transfer rate: 140032 bits in <1 sec, 4376 bytes/write.
+Hardware assisted breakpoint 1 at 0x40001250: file ../src/TP2.c, line 50.
+Temporary breakpoint 2 at 0x40001288: file ../src/TP2.c, line 37.
+[New Thread 2]
+
+Thread 1 hit Temporary breakpoint 2, main () at ../src/TP2.c:37
+37	int main(void) {/*
+
+
+**** break = Reset ****  time = 
+
+
+**** break = barycentre ****  time = 
+Merged performance statistics for all started CPUs:
+ Cycles       :     68719
+ Instructions :     33584
+ Overall CPI  :      2.05
+ CPU performance (50.0 MHz)  :  24.44 MOPS (24.44 MIPS, 0.00 MFLOPS)
+ Cache hit rate              :   94.2 % (inst: 94.0, data: 97.3)
+ Simulated time              :   1.37 ms
+ Processor utilisation       : 100.00 %
+
+Performance of the simulator:
+ Real-time performance       :  61.05 %
+ Simulator performance       :  14.92 MIPS
+ Used time (sys + user)      :   0.00 s
+
+
+
+**** break = calculFluxBinaire ****  time = 
+Merged performance statistics for all started CPUs:
+ Cycles       :     16911
+ Instructions :      7715
+ Overall CPI  :      2.19
+ CPU performance (50.0 MHz)  :  22.81 MOPS (22.81 MIPS, 0.00 MFLOPS)
+ Cache hit rate              :   94.1 % (inst: 93.6, data: 99.6)
+ Simulated time              :   0.34 ms
+ Processor utilisation       : 100.00 %
+
+Performance of the simulator:
+ Real-time performance       :  66.44 %
+ Simulator performance       :  15.16 MIPS
+ Used time (sys + user)      :   0.00 s
+
+
+
+**** break = calculFluxPondere ****  time = 
+Merged performance statistics for all started CPUs:
+ Cycles       :     27233
+ Instructions :     14621
+ Overall CPI  :      1.86
+ CPU performance (50.0 MHz)  :  26.84 MOPS (26.84 MIPS, 0.00 MFLOPS)
+ Cache hit rate              :   96.0 % (inst: 95.8, data: 98.6)
+ Simulated time              :   0.54 ms
+ Processor utilisation       : 100.00 %
+
+Performance of the simulator:
+ Real-time performance       :  69.84 %
+ Simulator performance       :  18.75 MIPS
+ Used time (sys + user)      :   0.00 s
+
+
+Thread 1 received signal SIGTERM, Terminated.
+__text_start () at /opt/bcc-2.2.0-gcc/src/libbcc/shared/trap/trap_table_mvt.S:168
+168		SOFT_TRAP;                                    !  0 System calls
+tests/gdb_batch_001.txt:29: Error in sourced command file:
+Remote connection closed
